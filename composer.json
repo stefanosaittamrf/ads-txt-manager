@@ -1,0 +1,21 @@
+{
+	"name": "adstxt",
+	"description": "A radical new plugin for WordPress!",
+	"keywords": ["wordpress", "plugin", "generator-plugin-wp"],
+	"homepage": "https://www.marfeel.com",
+	"license": "GPLv2",
+	"authors": [
+	{
+		"name": "Stefano Saitta",
+		"homepage": "https://www.marfeel.com"
+	}
+	],
+	"minimum-stability": "dev",
+	"type": "wordpress-plugin",
+	"autoload": {
+		"classmap": ["adstxt.php", "includes/"]
+	},
+	"require": {
+		"webdevstudios/cmb2": "dev-trunk"
+	}
+}

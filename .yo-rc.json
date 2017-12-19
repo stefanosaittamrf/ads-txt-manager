@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "Ads.txt",
+    "homepage": "https://www.marfeel.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "0.0.0",
+    "author": "Stefano Saitta",
+    "authoremail": "stefano.saitta@marfeel.com",
+    "authorurl": "https://www.marfeel.com",
+    "license": "GPLv2",
+    "slug": "adstxt",
+    "classname": "Ads.txt",
+    "mainclassname": "Ads.txt",
+    "classprefix": "A._",
+    "prefix": "adstxt",
+    "year": 2017,
+    "currentVersionWP": "4.8.1",
+    "plugingenversion": "0.20.2"
+  }
+}
